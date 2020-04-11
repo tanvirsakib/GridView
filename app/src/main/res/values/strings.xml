@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">GridView</string>
+
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>New Zeland</item>
+        <item>England</item>
+        <item>South Africa</item>
+        <item>West Indies</item>
+        <item>Afganistan</item>
+        <item>Srilanka</item>
+        <item>Ireland</item>
+        <item>Zimbabwa</item>
+    </string-array>
+
+    <string name="ban_txt">
+        Bangladesh literally meaning The country of Bengal), officially called the Peoples Republic of Bangladesh (গণপ্রজাতন্ত্রী বাংলাদেশ Bangladesh), is a country in South Asia. \n\n
+        It is the eighth-most populous country in the world, with a population exceeding 161 million people.[6][7] In terms of land mass, Bangladesh ranks 92nd, spanning 147,570 square kilometres (56,980 sq mi), making it one of the most densely-populated countries in the world. Bangladesh shares land borders with India to the west, north, and east, Myanmar to the southeast, and the Bay of Bengal to the south. It is narrowly separated from Nepal and Bhutan by India Siliguri Corridor, and from China by the Indian state of Sikkim, respectively in the north. Dhaka, the capital and largest city, is the nations economic, political and cultural hub. Chittagong, the largest sea port, is the second largest city. With numerous criss-crossing rivers and inland waterways, the dominant geographic feature of Bangladesh is the Ganges delta, which empties into the Bay of Bengal with the combined waters of several river systems, including the Brahmaputra river and the Ganges river. Highlands, with evergreen forests, cover the northeastern and southeastern regions, while the countrys biodiversity comprises a vast array of plants and wildlife, including the endangered Royal Bengal tiger, which is the national animal. The seacoast features the worlds longest natural sandy beach in Coxs Bazar as well as the Sundarbans, which is the worls largest mangrove forest.
+    </string>
+    <string name="eng_txt">
+        England is a country that is part of the United Kingdom.[7][8][9] It shares land borders with Wales to the west and Scotland to the north. \n\n
+        The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight. It is the largest country of the British Isles
+    </string>
+    <string name="pak_txt">
+        Pakistan,[b] officially the Islamic Republic of Pakistan,[c] is a country in South Asia. It is the worlds fifth-most populous country with a population exceeding 212.2 million. In area, it is the 33rd-largest country, spanning 881,913 square kilometres (340,509 square miles). \n\n
+        Pakistan has a 1,046-kilometre (650-mile) coastline along the Arabian Sea and Gulf of Oman in the south and is bordered by India to the east, Afghanistan to the west, Iran to the southwest, and China in the northeast. It is separated narrowly from Tajikistan by Afghanistans Wakhan Corridor in the northwest, and also shares a maritime border with Oman.
+    </string>
+    <string name="ind_txt">
+        India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia. \n\n
+        It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west. China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia.
+    </string>
+    <string name="aus_txt">Australia, officially the Commonwealth of Australia,[12] is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the world\s sixth-largest country by total area. \n\n
+        The population of 26 million is highly urbanised and heavily concentrated on the eastern seaboard. Australia\s capital is Canberra, and its largest city is Sydney. The country\s other major metropolitan areas are Melbourne, Brisbane, Perth, and Adelaide.
+    </string>
+    <string name="nz_txt">
+        New Zealand (Māori: Aotearoa [aɔtɛaɾɔa]) is a sovereign island country in the southwestern Pacific Ocean. The country has two main landmasses—the North Island (Te Ika-a-Māui), and the South Island (Te Waipounamu)—and around 600 smaller islands. It has a total land area of 268,000 square kilometres (103,500 sq mi). \n\n
+        New Zealand is about 2,000 kilometres (1,200 mi) east of Australia across the Tasman Sea and 1,000 kilometres (600 mi) south of the Pacific island areas of New Caledonia, Fiji, and Tonga. Because of its remoteness, it was the last large habitable land to be settled by humans. During its long period of isolation, New Zealand developed a distinct biodiversity of animal, fungal, and plant life. The countrys varied topography and its sharp mountain peaks, such as the Southern Alps, owe much to the tectonic uplift of land and volcanic eruptions. New Zealands capital city is Wellington, and its most populous city is Auckland
+    </string>
+    <string name="sf_txt">
+        South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa.\n\n
+        It is bounded to the south by 2,798 kilometres (1,739 mi) of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans; to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe; and to the east and northeast by Mozambique and Eswatini (Swaziland); and it surrounds the enclaved country of Lesotho.[12] South Africa is the largest country in Southern Africa and the 24th-largest country in the world by land area and, with over 58 million people, is also the worlds 24th-most populous nation. It is the southernmost country on the mainland of the Old World or the Eastern Hemisphere. About 80 percent of South Africans are of Bantu ancestry,[5] divided among a variety of ethnic groups speaking different African languages, nine of which have official status.[11] The remaining population consists of Africas largest communities of European, Asian (Indian),and multiracial (Coloured) ancestry.
+    </string>
+    <string name="wi_txt">
+        The West Indies is a region of the North Atlantic Ocean and the Caribbean that includes the island countries and surrounding waters of three major archipelagos: the Greater Antilles, the Lesser Antilles, and the Lucayan Archipelago.[1]The region includes all the islands in or bordering the Caribbean Sea, plus The Bahamas and the Turks and Caicos Islands, which are in the Atlantic Ocean.\n\n
+        This term also includes modern-day Belize, Guyana, Suriname, and French Guiana.
+    </string>
+    <string name="afg_txt">
+        Afghanistan (/æfˈɡænɪstæn, æfˈɡɑːnɪstɑːn/ (About this soundlisten); Pashto/Dari: افغانستان, Pashto: Afġānistān [avɣɒnisˈtɒn, ab-],[a] Dari: Afġānestān [avɣɒnesˈtɒn]), officially the Islamic Republic of Afghanistan, is a landlocked country situated at the confluence of Western, Central, and Southern Asia. Afghanistan is bordered by Pakistan to the east and south;[b] Iran to the west; Turkmenistan, Uzbekistan, and Tajikistan to the north; and China to the northeast. Occupying 652,000 square kilometers (252,000 sq mi), it is a mountainous country with plains in the north and southwest. Kabul is the capital and largest city. The population is 32 million, mostly composed of ethnic Pashtuns, Tajiks, Hazaras and Uzbeks.
+    </string>
+    <string name="sri_txt">
+        Sri Lanka (UK: /sri ˈlæŋkə, ʃriː -/, US: /- ˈlɑːŋkə/ (About this soundlisten);[8][9] Sinhala: ශ්‍රී ලංකා Śrī Laṃkā; Tamil: இலங்கை Ilaṅkai), officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. The island is geographically separated from the Indian subcontinent by the Gulf of Mannar and the Palk Strait. Sri Jayawardenepura Kotte is the legislative capital while Colombo is the largest city and center of commerce.
+    </string>
+    <string name="ire_txt">
+        Ireland (/ˈaɪərlənd/ (About this soundlisten); Irish: Éire [ˈeːɾʲə] (About this soundlisten); Ulster-Scots: Airlann [ˈɑːrlən]) is an island in the North Atlantic. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St Georges Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest on Earth.\n\n
+        Geopolitically, Ireland is divided between the Republic of Ireland (officially named Ireland), which covers five-sixths of the island, and Northern Ireland, which is part of the United Kingdom. In 2011, the population of Ireland was about 6.6 million, ranking it the second-most populous island in Europe after Great Britain. As of 2016, 4.8 million live in the Republic of Ireland, and 1.8 million live in Northern Ireland
+    </string>
+    <string name="zim_txt">
+        Zimbabwe (/zɪmˈbɑːbweɪ, -wi/), officially the Republic of Zimbabwe, formerly Rhodesia,[13] is a landlocked country located in Southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique. The capital and largest city is Harare. The second largest city is Bulawayo. A country of roughly 14 million[6][7] people, Zimbabwe has 16 official languages,[3] with English, Shona, and Ndebele the most common.
+    </string>
+</resources>
